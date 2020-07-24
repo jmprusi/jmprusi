@@ -17,8 +17,8 @@
    ░┃  Native environment: Kubernetes/Openshift, Operators, Knative, Istio,    ┃
    ░┃  Envoy...                                                                ┃
    ░┃                                                                          ┃
-   ░┃ You can see some of the projects in which I've been involved pinned down ┃
-   ░┃ here!                                                                    ┃
+   ░┃  You can see some of the projects in which I've been involved pinned     ┃
+   ░┃  down here!                                                              ┃
    ░┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
    ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
 
